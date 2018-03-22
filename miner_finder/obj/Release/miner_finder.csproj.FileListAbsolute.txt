@@ -1,0 +1,16 @@
+c:\users\alexey\documents\visual studio 2013\Projects\miner_finder\miner_finder\bin\Release\miner_finder.exe
+c:\users\alexey\documents\visual studio 2013\Projects\miner_finder\miner_finder\bin\Release\miner_finder.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\miner_finder\miner_finder\obj\Release\miner_finder.Form1.resources
+c:\users\alexey\documents\visual studio 2013\Projects\miner_finder\miner_finder\obj\Release\miner_finder.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2013\Projects\miner_finder\miner_finder\obj\Release\miner_finder.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2013\Projects\miner_finder\miner_finder\obj\Release\miner_finder.exe
+c:\users\alexey\documents\visual studio 2013\Projects\miner_finder\miner_finder\obj\Release\miner_finder.pdb
+E:\projects\miner_finder\miner_finder\bin\Release\miner_finder.exe
+E:\projects\miner_finder\miner_finder\bin\Release\miner_finder.pdb
+E:\projects\miner_finder\miner_finder\obj\Release\miner_finder.Form1.resources
+E:\projects\miner_finder\miner_finder\obj\Release\miner_finder.Properties.Resources.resources
+E:\projects\miner_finder\miner_finder\obj\Release\miner_finder.csproj.GenerateResource.Cache
+E:\projects\miner_finder\miner_finder\obj\Release\miner_finder.csproj.CoreCompileInputs.cache
+E:\projects\miner_finder\miner_finder\obj\Release\miner_finder.exe
+E:\projects\miner_finder\miner_finder\obj\Release\miner_finder.pdb
+E:\projects\miner_finder\miner_finder\obj\Release\miner_finder.csprojResolveAssemblyReference.cache
